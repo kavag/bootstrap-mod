@@ -1,5 +1,3 @@
-# Bootstrap Mod
-
 This is a Bootstrap mod by Kavag. Modified by Love.
 
 ## Changes
