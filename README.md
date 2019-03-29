@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://kavag.github.io/bootstrap-mod/dist/bootstrap.css">
+
 This is a Bootstrap mod by Kavag. Modified by Love.
 
 ## Changes
