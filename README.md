@@ -11,6 +11,9 @@ This is a Bootstrap mod by Kavag. Modified by Love.
 From NPM install Bootstrap Mod is now not really. But you can install it, just setting CSS and JS.
 
 On CSS you need write this `
+
+```
 <link rel="stylesheet" href="https://kavag.github.io/bootstrap-mod/dist/bootstrap.css">
+```
 
 ## To JS write this `
