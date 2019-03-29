@@ -15,5 +15,7 @@ On CSS you need write this `
 ```
 <link rel="stylesheet" href="https://kavag.github.io/bootstrap-mod/dist/bootstrap.css">
 ```
-
-## To JS write this `
+To JS write this `
+```
+<script src="https://kavag.github.io/bootstrap-mod/dist/bootstrap.js"></script>
+```
